@@ -1,0 +1,26 @@
+{
+  "name": "node-js-template",
+  "version": "1.0.0",
+  "description": "sachin's template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachincodes/node-js-template.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachincodes/node-js-template/issues"
+  },
+  "homepage": "https://github.com/sachincodes/node-js-template#readme",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.17.1"
+  }
+}
